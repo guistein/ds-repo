@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Response>
-     <Say voice="woman" language="pt-BR">  Isto é um texto para teste.  </Say>
-      <Hangup/>
+     <Say voice="woman" language="pt-BR">  Isto é um texto para teste.</Say>
 </Response>
